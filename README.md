@@ -1,5 +1,11 @@
 # clap-shell-completions
 
+**THIS REPO HAS BEEN ARCHIVED**
+
+If you're interested, you can find a more complete implementation of this crate at <https://github.com/microsoft/openvmm/tree/0460c27/support/clap_dyn_complete>, which I worked on during my tenure at Microsoft.
+
+* * *
+
 A hand-rolled version of "clap_complete", with support for dynamic completions
 driven by callbacks.
 
